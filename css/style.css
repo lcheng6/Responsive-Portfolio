@@ -247,11 +247,23 @@ div.footer {
     #about-me-description {
 		width:96%;
 	}
+	#connect-with-me {
+		width:50%;
+	}
 }
 
 @media screen and (max-width: 760px) and (min-width: 640px) {
-	#about-me-description {
-		width:100%;
+	#container {
+		width:90%;
+	}
+	#nav-header {
+		width:90%;
+	}
+    #about-me-description {
+		width:96%;
+	}
+	#connect-with-me {
+		width:96%;
 	}
 }
 
