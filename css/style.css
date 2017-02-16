@@ -235,3 +235,8 @@ div.footer {
 #button:hover {
 	font-size:24px;
 }
+
+/*980 768 640 */
+@media screen and (max-width: 980 px) and (min-width: 769px) {
+    
+}
