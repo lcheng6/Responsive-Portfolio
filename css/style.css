@@ -244,7 +244,7 @@ div.footer {
 	#nav-header {
 		width:80%;
 	}
-    #about-me-description {
+    #about-me-description, #contact-me-section {
 		width:96%;
 	}
 	#connect-with-me {
@@ -259,7 +259,7 @@ div.footer {
 	#nav-header {
 		width:90%;
 	}
-    #about-me-description {
+    #about-me-description, #contact-me-section{
 		width:96%;
 	}
 	#connect-with-me {
@@ -274,7 +274,7 @@ div.footer {
 	#nav-header {
 		width:90%;
 	}
-    #about-me-description {
+    #about-me-description, #contact-me-section{
 		width:96%;
 	}
 	#connect-with-me {
