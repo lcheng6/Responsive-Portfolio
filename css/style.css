@@ -268,8 +268,17 @@ div.footer {
 }
 
 @media screen and (max-width: 640px) {
-	#about-me-description {
-		width:100%;
+	#container {
+		width:90%;
+	}
+	#nav-header {
+		width:90%;
+	}
+    #about-me-description {
+		width:96%;
+	}
+	#connect-with-me {
+		width:96%;
 	}
     
 }
